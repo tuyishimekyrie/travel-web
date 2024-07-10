@@ -1,5 +1,7 @@
 # Responsive Travel Website 🌊
 
+![travel-website](./preview3.png)
+
 ###  Responsive Travel Website 🌊
 
 - Travel website to the most beautiful beaches, using HTML, CSS & JAVASCRIPT.
@@ -9,4 +11,3 @@
 - Compatible with all mobile devices and with a beautiful and pleasant user interface.
 
 
-![travel-website](/preview.png)
