@@ -221,6 +221,7 @@ input {
   position: relative;
 }
 
+/* Responsiveness for header */
 @media screen and (max-width: 767px) {
   .nav__menu {
     position: fixed;
