@@ -1,4 +1,4 @@
-# Responsive Travel Website 🌊
+# Responsive Travel Website 🌊🏖⛱
 
 ![Travel Website Preview](./preview3.png)
 
